@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Computer Science student focused on backend development.<br>Experience with Python, object-oriented programming, and SQL through hands-on projects.<br>Fast learner, organized, and constantly improving technical and problem-solving skills.</p>
+<p align="left">Computer Science student focused on backend development.<br>Experience with Python, object-oriented programming, and web development through hands-on projects.<br>Fast learner, organized, and constantly improving technical and problem-solving skills.</p>
 
 ###
 
