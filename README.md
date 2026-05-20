@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">🤝</h2>
+<h2 align="left">🐧</h2>
 
 ###
 
